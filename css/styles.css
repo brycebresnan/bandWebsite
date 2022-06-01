@@ -1,3 +1,8 @@
-p {
-  Float: left;
+.sidebar {
+  Float: right;
+  background-color: yellow;
+}
+
+.mainImage {
+  text-align: center;
 }
